@@ -1,6 +1,6 @@
 ### Welcome ###
 
-## This is tool for use wget in ""Golnag"" as function ##
+## This is tool for use wget in ""Golang"" as function ##
 
 -- To use this functionality just call WgetCli function with string array parameter.
 
